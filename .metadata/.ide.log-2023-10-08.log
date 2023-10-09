@@ -1,0 +1,158 @@
+2023-10-09 00:05:29,602 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-10-09 00:05:29,659 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-10-09 00:05:29,675 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,731 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,731 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,732 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,733 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,734 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,734 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,734 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,734 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,735 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,735 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:29,762 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,093 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-09 00:05:30,440 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-09 00:05:30,600 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,600 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,601 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,601 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,601 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,601 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,602 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,603 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,603 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,603 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,700 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,806 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,807 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,807 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,807 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,807 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,807 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,808 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,808 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,808 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,809 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:05:30,930 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,186 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,192 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,192 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,193 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,193 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,193 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,193 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,194 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,194 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,194 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,194 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,195 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,195 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,195 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,216 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,250 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,252 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,253 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,275 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,391 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,392 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,393 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,394 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,394 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,394 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,394 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:17,479 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,498 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-10-09 00:09:22,654 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,656 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,657 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,658 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,658 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,658 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,658 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,658 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:22,755 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-10-09 00:09:28,872 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-10-09 00:12:37,601 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 747269432 Bytes (1073741824)
+2023-10-09 00:12:38,730 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 778200376 Bytes (1073741824)
+2023-10-09 00:12:41,950 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 872733512 Bytes (1073741824)
+2023-10-09 00:12:42,384 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8F77
+2023-10-09 00:12:42,385 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-10-09 00:12:42,385 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-10-09 00:12:42,385 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-10-09 00:12:42,385 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: CORTEX_M7
+2023-10-09 00:12:42,386 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-10-09 00:12:42,387 [INFO] CodeGenerator:799 - code generatio: config db path: /opt/st/stm32cubeide_1.13.0/plugins/com.st.stm32cube.common.mx_6.9.0.202307051724//db/
+2023-10-09 00:12:42,881 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/license.tmp_save
+2023-10-09 00:12:43,102 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/license.tmp
+2023-10-09 00:12:43,117 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/gpio.c_save
+2023-10-09 00:12:43,386 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/gpio.c
+2023-10-09 00:12:43,388 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/gpio.h_save
+2023-10-09 00:12:43,535 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/gpio.h
+2023-10-09 00:12:43,728 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/adc.c_save
+2023-10-09 00:12:43,940 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/adc.c
+2023-10-09 00:12:43,942 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/adc.h_save
+2023-10-09 00:12:44,061 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/adc.h
+2023-10-09 00:12:44,065 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/cortex.tmp_save
+2023-10-09 00:12:44,189 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/cortex.tmp
+2023-10-09 00:12:44,195 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/tim.c_save
+2023-10-09 00:12:44,367 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/tim.c
+2023-10-09 00:12:44,370 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/tim.h_save
+2023-10-09 00:12:44,495 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/tim.h
+2023-10-09 00:12:44,505 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/stm32f7xx_it.c_save
+2023-10-09 00:12:44,837 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/stm32f7xx_it.c
+2023-10-09 00:12:44,840 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/stm32f7xx_it.h_save
+2023-10-09 00:12:44,956 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/stm32f7xx_it.h
+2023-10-09 00:12:44,971 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/stm32f7xx_hal_msp.c_save
+2023-10-09 00:12:45,116 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/stm32f7xx_hal_msp.c
+2023-10-09 00:12:45,118 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/system.tmp_save
+2023-10-09 00:12:45,232 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/MXTmpFiles/system.tmp
+2023-10-09 00:12:45,237 [INFO] CodeEngine:311 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/stm32f7xx_hal_conf.h_save
+2023-10-09 00:12:45,374 [INFO] CodeEngine:335 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/stm32f7xx_hal_conf.h
+2023-10-09 00:12:45,400 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/main.h_save
+2023-10-09 00:12:45,555 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Inc/main.h
+2023-10-09 00:12:45,558 [INFO] CodeEngine:255 - oldGeneratedFile, /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/main.c_save
+2023-10-09 00:12:45,723 [INFO] CodeEngine:279 - Generated code: /home/northy/STM32CubeIDE/TEST_MAD/Tutorial/Core/Src/main.c
+2023-10-09 00:12:46,601 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 66mS.
+2023-10-09 00:12:46,604 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-10-09 00:12:47,106 [INFO] ConfigFileManager:1457 - The Die is : DIE451
+2023-10-09 00:12:49,139 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2535mS.
+2023-10-09 00:12:49,140 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-10-09 00:12:49,141 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

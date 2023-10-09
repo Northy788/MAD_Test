@@ -105,29 +105,29 @@ int main(void)
     /* USER CODE BEGIN 3 */
 	  //0000 0000 0000 0000 0x00 0000 x000 0000
 	  //0x00 0000 0x00 0000 0000 0000 0000 0000
-//	  GPIOE->BSRR = 0x00004080;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00004080 << 16;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00002100;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00002100 << 16;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00001200;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00001200 << 16;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00000C00;
-//	  HAL_Delay(500);
-//	  GPIOE->BSRR = 0x00000C00 << 16;
-//	  HAL_Delay(500);
-	  HAL_ADC_PollForConversion(&hadc1, 100);
-	  adc_val = HAL_ADC_GetValue(&hadc1);
-
-	  dutyCycle = (float)adc_val / 4095.0;
-	  htim2.Instance->CCR4 = (100-1) * dutyCycle;
-	  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_4);
-	  pwm = HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_11);
+	  GPIOE->BSRR = 0x00004080;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00004080 << 16;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00002100;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00002100 << 16;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00001200;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00001200 << 16;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00000C00;
+	  HAL_Delay(500);
+	  GPIOE->BSRR = 0x00000C00 << 16;
+	  HAL_Delay(500);
+//	  HAL_ADC_PollForConversion(&hadc1, 100);
+//	  adc_val = HAL_ADC_GetValue(&hadc1);
+//
+//	  dutyCycle = (float)adc_val / 4095.0;
+//	  htim2.Instance->CCR4 = (100-1) * dutyCycle;
+//	  HAL_TIM_PWM_Start(&htim2, TIM_CHANNEL_4);
+//	  pwm = HAL_GPIO_ReadPin(GPIOB, GPIO_PIN_11);
   }
   /* USER CODE END 3 */
 }
